@@ -96,30 +96,30 @@ p {
   border-radius: .4rem;
 }
 
-.target__main__titulo h1 {
+.main__titulo h1 {
   font-weight: 900;
   font-size: 2.5rem;
 }
 
-.target__main__titulo:hover {
+.main__titulo:hover {
   color: var(--yellow);
 }
 
-.target__main__info {
+.main__info {
   color: var(--grey);
 }
 
-.target__main__user {
+.main__user {
   display: flex;
   gap: 3rem;
 }
 
-.target__main__user__name p {
+.main__user__name p {
   padding-top: .6rem;
   font-weight: 900;
   margin: 0;
 }
 
-.target__main__user__icon {
+.main__user__icon {
   margin: 0;
 }
